@@ -1,0 +1,23 @@
+# 忽略目录/文件夹
+# node_modules/
+# build/
+# dist/
+.vs/
+Debug
+
+# 忽略所有 .log 文件
+# *.log
+*.sln
+*.vcxproj
+*.filters
+*.user
+
+# 忽略指定文件
+# secret.txt
+# config/local.yml
+
+# 只忽略根目录下的 temp 目录
+# /temp/
+
+# 不忽略某个文件
+# !important.log
